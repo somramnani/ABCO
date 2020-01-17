@@ -1,2 +1,2 @@
 # ABCO
-A theme taken from bootstrap. 
+A bootstrap theme. 
